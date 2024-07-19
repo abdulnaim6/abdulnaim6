@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Naim</h1>
 <h3 align="center">A passionate fullstack Web & Mobile Developer from Indonesia</h3>
 
-- 🌱 I’m currently **graduated from Pijar Camp Fullstack Web & Mobile Developer Batch 17**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
